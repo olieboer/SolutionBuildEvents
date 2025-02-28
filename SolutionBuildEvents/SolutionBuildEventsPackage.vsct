@@ -56,8 +56,8 @@
         <Parent guid="guidSolutionBuildEventsPackageCmdSet" id="MyMenuGroup" />
         <Icon guid="guidImages" id="bmpPic1" />
         <Strings>
-          <ButtonText>Enable solution build events for this solution</ButtonText>
-		  <ToolTipText>Creates the configuration file in the solution directory ("SolutionBuildEvents.json"). Add this to git ignore if you don't want to share this with your team.</ToolTipText>
+          <ButtonText>Edit solution events</ButtonText>
+		  <ToolTipText>Opens (and creates) the configuration file in the solution directory ("SolutionBuildEvents.json"). Add this to git ignore if you don't want to share this with your team.</ToolTipText>
         </Strings>
       </Button>
     </Buttons>
